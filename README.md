@@ -1,4 +1,4 @@
-# Simpler-Java-projects
+# A repo of short-and-sweet Java projects
 
 This repo contains simpler Java projects which I have worked on in school.
 
